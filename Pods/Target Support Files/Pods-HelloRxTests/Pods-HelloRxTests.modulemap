@@ -1,0 +1,6 @@
+framework module Pods_HelloRxTests {
+  umbrella header "Pods-HelloRxTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
