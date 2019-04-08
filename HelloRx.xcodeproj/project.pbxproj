@@ -17,6 +17,7 @@
 		C9754DF42255A8240051830B /* HelloRxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9754DF32255A8240051830B /* HelloRxTests.swift */; };
 		C9754DFF2255A8240051830B /* HelloRxUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9754DFE2255A8240051830B /* HelloRxUITests.swift */; };
 		C9DC2E89225AEF6500F88FB9 /* Quiz1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9DC2E88225AEF6500F88FB9 /* Quiz1ViewController.swift */; };
+		C9DC2E8B225AF7AD00F88FB9 /* Quiz2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9DC2E8A225AF7AD00F88FB9 /* Quiz2ViewController.swift */; };
 		FCF5E6A8AA79EA6DB84448D9 /* Pods_HelloRxUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A6A78CF363403FCDFC9A864A /* Pods_HelloRxUITests.framework */; };
 /* End PBXBuildFile section */
 
@@ -62,6 +63,7 @@
 		C9754E002255A8240051830B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C9DC2E862255B25C00F88FB9 /* RXSwiftPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RXSwiftPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C9DC2E88225AEF6500F88FB9 /* Quiz1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quiz1ViewController.swift; sourceTree = "<group>"; };
+		C9DC2E8A225AF7AD00F88FB9 /* Quiz2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quiz2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -161,6 +163,7 @@
 			isa = PBXGroup;
 			children = (
 				C9DC2E88225AEF6500F88FB9 /* Quiz1ViewController.swift */,
+				C9DC2E8A225AF7AD00F88FB9 /* Quiz2ViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -410,6 +413,7 @@
 			files = (
 				C9754DE12255A8220051830B /* ViewController.swift in Sources */,
 				C9754DDF2255A8220051830B /* AppDelegate.swift in Sources */,
+				C9DC2E8B225AF7AD00F88FB9 /* Quiz2ViewController.swift in Sources */,
 				C9DC2E89225AEF6500F88FB9 /* Quiz1ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
